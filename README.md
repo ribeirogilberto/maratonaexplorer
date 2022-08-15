@@ -1,4 +1,4 @@
 # maratonaexplorer
- Maratona Explorer 3.0 da Rocketseat
+ Maratona Explorer 3.0 Rocketseat
 
  Estou aprendendo a criar sites!
